@@ -1,0 +1,63 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "[tktk Module Name]",
+    "name": "tktk",
+    "type": "Project"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Project Journey",
+          "dirName": "project-journey",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Project Requirements",
+          "dirName": "project-requirements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Project Details",
+          "dirName": "project-details",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Project Deliverables",
+          "dirName": "project-deliverables",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": false,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": false,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    }
+  ]
+}
