@@ -23,6 +23,8 @@ courses {
   new {
     name = "rds"
     microlessons {
+      isHeaderModuleNavShown = true
+      isFooterLessonNavShown = true
       mls.projectRequirements
       mls.projectDetails
     }
