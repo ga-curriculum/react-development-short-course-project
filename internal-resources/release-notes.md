@@ -3,9 +3,9 @@
   <span class="subhead">Release Notes</span>
 </h1>
 
-## Version 1.0 - Updates from legacy content
+## Version 1.0
 
-This release modularizes the legacy [tktk previous project name] project and provides some other minor updates detailed below.
+This is net new content.
 
 ### Release details
 

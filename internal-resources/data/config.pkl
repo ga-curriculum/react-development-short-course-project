@@ -12,7 +12,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "React Development Short Course Project"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk"
+  name = "react-development-short-course-project"
   type = "Project"
 }
 
@@ -21,16 +21,21 @@ courses {
   // ! meaning "fallback" is the default view most students will see (unless
   // ! a canvas-landing-page directory is added to this repo.)
   new {
+    name = "rds"
+    microlessons {
+      mls.projectRequirements
+      mls.projectDetails
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     isHeaderModuleNavShown = false
     isFooterLessonNavShown = false
     microlessons {
       // add microlessons here, in the order they should be delivered
-      mls.projectJourney
       mls.projectRequirements
       mls.projectDetails
-      mls.projectDeliverables
     }
   }
 }

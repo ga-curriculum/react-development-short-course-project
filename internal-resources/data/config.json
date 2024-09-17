@@ -5,20 +5,14 @@
   },
   "repo": {
     "friendlyName": "React Development Short Course Project",
-    "name": "tktk",
+    "name": "react-development-short-course-project",
     "type": "Project"
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "rds",
       "logoUrl": "",
       "microlessons": [
-        {
-          "friendlyName": "Project Journey",
-          "dirName": "project-journey",
-          "type": "Content",
-          "videoUrl": ""
-        },
         {
           "friendlyName": "Project Requirements",
           "dirName": "project-requirements",
@@ -30,10 +24,43 @@
           "dirName": "project-details",
           "type": "Content",
           "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Project Requirements",
+          "dirName": "project-requirements",
+          "type": "Content",
+          "videoUrl": ""
         },
         {
-          "friendlyName": "Project Deliverables",
-          "dirName": "project-deliverables",
+          "friendlyName": "Project Details",
+          "dirName": "project-details",
           "type": "Content",
           "videoUrl": ""
         }
@@ -42,8 +69,8 @@
       "isHeaderModuleNavShown": false,
       "isHeaderHomeNavShown": true,
       "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
       "isHeaderNavSettingsShown": true,
-      "isFooterShown": true,
       "isFooterCopyrightShown": true,
       "isFooterLessonNavShown": false,
       "isStickyNavSettingShown": true,
@@ -57,7 +84,8 @@
       "isLightModeAllowed": true,
       "isLightModeDefault": true,
       "isLightModeForcedDefault": false,
-      "isDarkModeForcedDefault": false
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
     }
   ]
 }
