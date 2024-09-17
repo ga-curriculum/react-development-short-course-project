@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Project Deliverables</span>
 </h1>
 
@@ -47,7 +47,7 @@ Follow the guidelines below to submit your deliverables for this project.
 
 ### Submitting your planning materials
 
-Submit a link to your ***publicly visible*** planning materials below in the following format:
+Submit a link to your **_publicly visible_** planning materials below in the following format:
 
 ```plaintext
 Project planning link: <link>
@@ -57,7 +57,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for your [tktk Module Name] below in the following format:
+Submit a link to the **_public_** GitHub repo that you are using for your React Development Short Course Project below in the following format:
 
 ```plaintext
 GitHub repo link: <link>

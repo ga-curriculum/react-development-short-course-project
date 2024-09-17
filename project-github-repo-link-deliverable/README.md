@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Project GitHub Repo Link Deliverable</span>
 </h1>
 
@@ -11,4 +11,4 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 ## Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for your [tktk Module Name] below.
+Submit a link to the **_public_** GitHub repo that you are using for your React Development Short Course Project below.

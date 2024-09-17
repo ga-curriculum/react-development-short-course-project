@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Project GitHub Repo and Deployed App Links Deliverable</span>
 </h1>
 
@@ -30,7 +30,7 @@ Follow the guidelines below to submit your deliverables for this project.
 
 ### Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for your [tktk Module Name] below in the following format:
+Submit a link to the **_public_** GitHub repo that you are using for your React Development Short Course Project below in the following format:
 
 ```plaintext
 GitHub repo link: <link>

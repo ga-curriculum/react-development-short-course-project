@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Release Notes</span>
 </h1>
 

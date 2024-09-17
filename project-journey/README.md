@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Project Journey</span>
 </h1>
 
@@ -17,13 +17,13 @@ Before you start planning, review the [project requirements](../project-requirem
 
 ## 1. Project planning
 
-Project week starts with project planning. For more details and the specific requirements, see the [[tktk Module Name] Deliverables](../project-deliverables/README.md).
+Project week starts with project planning. For more details and the specific requirements, see the [React Development Short Course Project Deliverables](../project-deliverables/README.md).
 
 When you submit your project planning materials your proposal will either be approved, or you'll receive feedback and be asked to make adjustments before a final approval can be given.
 
 ## 2. Create a GitHub repo
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [[tktk Module Name] Deliverables](../project-deliverables/README.md) for more details.
+Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [React Development Short Course Project Deliverables](../project-deliverables/README.md) for more details.
 
 ## 3. Build the project
 
@@ -31,7 +31,7 @@ The fun part! Start building your project! The printable [project requirements P
 
 ## 4. Deploy the work you have so far
 
-During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [[tktk Module Name] Deliverables](../project-deliverables/README.md) for more details.
+During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [React Development Short Course Project Deliverables](../project-deliverables/README.md) for more details.
 
 Continue working on your project until presentation day.
 

@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
 </h1>
 
 tktk add some default course navigation content here.
@@ -10,7 +10,7 @@ tktk This landing page will be used when a student's course cannot be determined
 
 ## About
 
-***Instructors should see the Instructor Guide for more configuration details.***
+**_Instructors should see the Instructor Guide for more configuration details._**
 
 tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
 

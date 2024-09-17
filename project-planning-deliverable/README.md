@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Project Planning Deliverable</span>
 </h1>
 
@@ -21,4 +21,4 @@ You will submit the following details about your project for approval by your in
 
 ## Submitting your planning materials
 
-Submit a link to your ***publicly visible*** Trello board.
+Submit a link to your **_publicly visible_** Trello board.

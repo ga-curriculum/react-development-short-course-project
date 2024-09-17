@@ -1,30 +1,76 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Project Details</span>
 </h1>
 
-## Notes and guidance
+## React Project: Build a "To-Do List" Style App
 
-### Getting started
+### Objective:
 
-Here are some quick tips to get your project started:
+By the end of this project, you'll demonstrate your knowledge of React by building a small front-end application. The goal is to showcase your ability to create components, manage state, handle events, and interact with simple data. Don't worry about styling — focus on functionality!
 
-- Discuss your app idea with an instructor to get feedback before you dive too deep into planning.
-- ***Keep it simple.*** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to an app without polish.
-- Theme your app to give it a personal touch.
-- Prioritize and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
-- Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
-- Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
+### Task:
 
-### Project assistance
+Your task is to create a simple **"To-Do List"** style application using React. Instead of building an actual to-do list, you have the creative freedom to build an application that involves similar core features, such as **adding, updating, and removing items**.
 
-Your instructor team will provide guidelines for reaching out for help during project week.
+"To-Do List" style apps are commonly used for learning because they include basic functionalities that are essential in many types of applications. These include **managing state**, **handling user input**, **managing events**, and **dynamically updating the display**.
 
-## Presentation ideas
+For example:
 
-You will have a maximum of 5 minutes to present your project. While the structure and content of your presentation are ultimately up to you, here are some potential ideas and topics to cover:
+For example:
 
-- Discuss the app. Including details about why you chose the app is a nice touch.
-- Use the app! Demo its features, such as CRUD.
-- Briefly show off something unique in your code or a piece of code you're particularly proud of.
-- Share your experience with the project - what was challenging, what did you gain from building this project?
+- A **personal journal** helps users create, update, and delete journal entries.
+
+- A **recipe book** allows users to add, view, edit, and remove recipes.
+
+- A **contact manager** lets users add, edit, and delete personal contact information in their address book.
+
+- An **expense tracker** allows users to add and remove expenses.
+
+- A **fitness tracker** enables users to log and update their workouts or activities.
+
+By building an app with these functionalities, you’ll gain skills that are useful for developing more complex applications, such as project management tools or e-commerce sites.
+
+### Requirements:
+
+Review the [official project requirements](../project-requirements/README.md) to ensure you're on track to pass the project.
+
+1. **Component Structure**:
+
+   - The app should have at least **3 components**
+     - Ex: `App`, `ItemList`, `Item`
+     - Ex: `App`, `RecipeList`, `Recipe`
+     - Ex: `App`, `WorkoutLog`, `WorkoutForm`
+
+2. **State Management**:
+
+   - Use **state** to manage a list of items.
+   - Include functionality to **add new items** to the list.
+   - Allow users to interact with items, such as **viewing details** in a separate component or **marking items as complete**.
+
+3. **Forms & Events**:
+
+   - Implement an input field where users can type a new item.
+   - Handle form submission to add the item to the list.
+
+4. **Dynamic Rendering**:
+
+   - The list should dynamically update when items are added or removed.
+
+5. **Data Interaction**:
+   - Use a **mock data array** as the initial list of items.
+
+### Bonus (Optional):
+
+- Add functionality to **delete** an item from the list.
+- Add a feature to **edit** an existing item.
+
+### Constraints:
+
+- **Focus on functionality over design**. No need to spend much time on CSS or styling.
+- The app should be **front-end only**. No need for a backend or external API.
+
+### Tools:
+
+- You may use any libraries or tools covered in the course (e.g., React Hooks).
+

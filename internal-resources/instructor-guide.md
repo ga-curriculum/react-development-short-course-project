@@ -1,17 +1,17 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">React Development Short Course Project</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 
 ## What's included?
 
-This is the repo for an individual [tktk Module Name]. It includes:
+This is the repo for an individual React Development Short Course Project. It includes:
 
-- [tktk Module Name] Journey
-- [tktk Module Name] Requirements
-- [tktk Module Name] Details
-- [tktk Module Name] Deliverables [students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week. This can be customized - see the **Customizing deliverables** section]
-- [tktk Module Name] Feedback [in Canvas only]
+- React Development Short Course Project Journey
+- React Development Short Course Project Requirements
+- React Development Short Course Project Details
+- React Development Short Course Project Deliverables [students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week. This can be customized - see the **Customizing deliverables** section]
+- React Development Short Course Project Feedback [in Canvas only]
 
 ## Customizing your project week
 
@@ -19,7 +19,7 @@ Customize your project week by adding to the existing project documentation. Exi
 
 You should not add, remove, or alter any project requirements.
 
-The [tktk Module Name] Details page provides some basic background information for the project. Sensible defaults are provided here, but you may want to add some details on top of what this document provides to match how you'd like to structure your project week for your students.
+The React Development Short Course Project Details page provides some basic background information for the project. Sensible defaults are provided here, but you may want to add some details on top of what this document provides to match how you'd like to structure your project week for your students.
 
 Some existing items already covered in this document that you may want to expand on include:
 
@@ -60,7 +60,7 @@ Edits to project requirements are complex and should be made thoughtfully. When 
 - [tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit).
 - [Project Requirements PDF](../project-requirements/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements/README.md).
-- All [tktk Module Name] rubrics in Canvas.
+- All React Development Short Course Project rubrics in Canvas.
 
 ---
 
