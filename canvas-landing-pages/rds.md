@@ -9,6 +9,6 @@ In this project, you'll develop a comprehensive React app that follows a "To-Do 
 
 ## Content
 
-[Project Requirements](./project-requirements/README.md)
+[Project Requirements](../project-requirements/README.md)
 
-[Project Details](./project-details/README.md)
+[Project Details](../project-details/README.md)
