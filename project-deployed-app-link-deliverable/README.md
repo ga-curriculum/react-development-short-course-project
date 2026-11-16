@@ -5,7 +5,7 @@
 
 ## Introduction
 
-During project week, you'll deploy your project so that others are able to use it on the internet! Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+During project week, you'll deploy your project so that others are able to use it on the internet! Follow the [tktk Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/tktk/) to deploy your project.
 
 ## Submitting your deployed app link
 
